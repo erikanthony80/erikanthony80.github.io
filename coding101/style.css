@@ -1,0 +1,26 @@
+body{
+	background-color:pink;
+}
+h1{
+	color:yellow;
+	text-align:center;
+	font-size:100px;
+
+}
+h2{
+	color:yellow;
+	text-align:center;
+	font-size:50px;
+	font-style: italic;
+}
+p{
+	color:yellow;
+	text-align:center;
+	font-size:20px;
+	font-family:helvetica;
+}
+ul{
+	color:purple;
+	font-size: 40px;
+
+}
